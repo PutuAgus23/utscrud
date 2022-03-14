@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(52, 128, 190);
+    background-image: url(gambar/gambar1.png.jpg);
+    background-position: top center;
+}
+
+th{
+    background-color: blue;
+    color: white;
+    height: 30px;
+}
